@@ -98,7 +98,7 @@ The clusters for cross-validation are pre-computed by data/cluster_data.py and s
 ### Output results
 
 The prediction for the old dataset (output_raw_Progeni.npy) was uploaded to the topk_indices folder. 
-The results for the new dataset can be downloaded from the following link: https://drive.google.com/file/d/1VHvs41f67_s5GvfqKVOfCKMZ76Zp-ZEb/view?usp=sharing
+The results for the new dataset can be downloaded from the following link: https://drive.google.com/file/d/1VHvs41f67_s5GvfqKVOfCKMZ76Zp-ZEb/view?usp=sharing.
 
 ## Contacts
 
