@@ -95,6 +95,11 @@ These data are in the literature_data/ folder
 
 The clusters for cross-validation are pre-computed by data/cluster_data.py and stored in data/clus/disease_cluster.npy
 
+### Output results
+
+The prediction for the old dataset (output_raw_Progeni.npy) was uploaded to the topk_indices folder. 
+The results for the new dataset can be downloaded from the following link: https://drive.google.com/file/d/1VHvs41f67_s5GvfqKVOfCKMZ76Zp-ZEb/view?usp=sharing
+
 ## Contacts
 
 If you have any questions or comments, please feel free to email Chang Liu (liu-chan19[at]mails[dot]tsinghua[dot]edu[dot]cn) and/or Jianyang Zeng (zengjy321[at]tsinghua[dot]edu[dot]cn).
