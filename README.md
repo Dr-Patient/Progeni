@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the repository for the paper ``A probabilistic knowledge graph for target identification." 
+This is the repository for the paper "A probabilistic knowledge graph for target identification." 
 Progeni is a novel machine learning-based framework for target identification. 
 Progeni integrates literature evidence with heterogeneous biological networks to construct a probabilistic knowledge graph, 
 upon which graph neural networks are trained to learn the latent feature representations of targets, diseases, and various biological entities.
