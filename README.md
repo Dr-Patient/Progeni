@@ -65,15 +65,15 @@ The **entry-wise cross validation** corresponds to <code>--mask random</code> wh
 
 ### Individual biological networks 
 
-These data are in the data/ and new_data/ folders.
+These data are in the data/ (data_new/) folders.
 
-* drug.txt: list of drug names.
+* drug.txt (drug.tsv): list of drug names.
 
-* protein.txt: list of protein names.
+* protein.txt (protein.tsv): list of protein names.
 
-* disease.txt: list of disease names.
+* disease.txt (disease.tsv): list of disease names.
 
-* se.txt: list of side effect names.
+* se.txt (se.tsv): list of side effect names.
 * drug_dict_map: a complete ID mapping between drug names and DrugBank ID.
 * protein_dict_map: a complete ID mapping between protein names and UniProt ID.
 * mat_drug_se.txt : Drug-SideEffect association matrix.
